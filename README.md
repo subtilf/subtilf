@@ -10,9 +10,9 @@ I’m currently learning about k8s, ansible, puppet and related technologies!
 
 The type of repos that you'll find here probably will be:
 * Technology evaluation - I always look for new technologies, so every time that I evaluate a new technology, I'll create a repo with its name
- * This type of repo will contain codes using: docker, docker-compose, k8s, shell script, python scripts, ansible, terraform and other related tools
+  * This type of repo will contain codes using: docker, docker-compose, k8s, shell script, python scripts, ansible, terraform and other related tools
 * Data pipeline codes - This type of repo will contain codes related to data pipelines, it can be a code to make just an ingestion or to transform data
- * This type of repo will contain codes using: python (script and OOP), java, scala (come soon), spark (pyspark), spark-streamming and other related technologies
+  * This type of repo will contain codes using: python (script and OOP), java, scala (come soon), spark (pyspark), spark-streamming and other related technologies
 * Auxiliar projects - This type of repo will contain codes related to any kind of need related to another projects, it can be a project to generate fake data, libraries and others...
 
 
